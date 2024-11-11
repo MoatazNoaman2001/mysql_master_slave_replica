@@ -1,0 +1,6 @@
+*************************** 1. row ***************************
+             File: 1.000001
+         Position: 1373
+     Binlog_Do_DB: mydb
+ Binlog_Ignore_DB: 
+Executed_Gtid_Set: 
